@@ -16,4 +16,13 @@
 *.opendb
 *.VC.db
 *.VC.opendb
+*.sln
+*.exe
+*.pdb
+*.vcxproj
+*.filters
+*.ilk
+*.recipe
+*.idb
+*.tlog
 .vs/
